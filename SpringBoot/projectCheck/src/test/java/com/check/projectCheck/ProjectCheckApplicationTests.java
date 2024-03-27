@@ -1,10 +1,10 @@
-package com.deviro.database;
+package com.check.projectCheck;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DatabaseApplicationTests {
+class ProjectCheckApplicationTests {
 
 	@Test
 	void contextLoads() {
